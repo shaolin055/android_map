@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_e26b09689c5f201255dc88b3e3f5ac550c081ef4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_b5d70085ec47d4b74c200064b6fd4d848512f5eb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_ceebadef291d87c23df929928e1c6c50ff11a210\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\User\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_948edbd8b426b1cf329e2173a0b774c5b428970e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4eed57508ab4eb00234510a8cd758c3fe5385a67">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d6ed0d7776fa6134f8da0236c7ab5a9bd6b6433c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_2ec0e6b42a2ff861cbdfc4b9a9c721ad0e96f2ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_90f4c05e3fb3b42632e58b835249dd4aa7e50efd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_839cb14d7493340565bc638caa036f7db802bc7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_dfffb86b17199ca6364de13cabfbb7860f0227d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="acf2bbf779ff9aa22ce5ec43fd16a18de6694d23">
+        <dex dex="C:\Users\User\Desktop\Research_task\App_updated_1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4a1fdacc043e0768958c38fc9b29a6002bc379d5\classes.dex" />
+    </item>
+
+</items>
